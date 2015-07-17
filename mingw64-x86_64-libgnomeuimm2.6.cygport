@@ -4,7 +4,7 @@ inherit cross gtkmm
 
 NAME="mingw64-x86_64-libgnomeuimm2.6"
 VERSION=2.28.0
-RELEASE=2
+RELEASE=3
 CATEGORY="Devel"
 SUMMARY="C++ libgnomeui2 bindings for Win64 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
